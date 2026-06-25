@@ -14,8 +14,9 @@ Currently studying for an MSc in IT with Cybersecurity, which shapes how I think
 
 ## What I'm working on
 
-- ✍️ Writing about software engineering, cybersecurity, and AI on [Substack](https://hesbonkyp.substack.com).
-- - **Available for full-time roles** as a Full-Stack / Software Engineer.
+* 🔐 My MSc dissertation — a cyber-physical threat model and certification-integrity architecture for a hydrogen-storage testing facility.
+* ✍️ Writing about software engineering, cybersecurity, and AI on [Substack](https://hesbonkyp.substack.com/).
+* 💼 Available for full-time Full-Stack / Software Engineer roles.
 
 ## Get in touch
 
